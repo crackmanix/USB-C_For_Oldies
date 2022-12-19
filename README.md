@@ -18,12 +18,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 
 
@@ -34,11 +35,16 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">USB-C for Oldies</h3>
 
   <p align="center">
-    project_description
+    Le but de ce projet est de fournir un adapteur secteur compatible USB-C pour toutes les consoles de notre enfance.
+    Pas de modification de votre console, juste un adaptateur externe.
+    Pour cela nous allons nous appuyer sur la norme Power Delivery qui permet de récupérer jusqu'à 100W de puissance sous 20V.
     <br />
+    The aim of this project is to provide a USB-C compatible power adapter for all the consoles of our childhood.
+    No modification of your console, just an external adapter.
+    For this we will rely on the Power Delivery standard which allows to obtain up to 100W of power under 20V.
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -195,9 +201,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Crackmanix - [@crackman1x](https://twitter.com/crackman1x) <!-- - email@email_client.com-->
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/crackmanix/USB-C_For_Oldies](https://github.com/crackmanix/USB-C_For_Oldies)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,6 +222,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!--
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
@@ -245,3 +252,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+-->
