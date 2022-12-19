@@ -18,6 +18,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+Ce projet est en cours de construction / This is a work in progress.
+<br/>
+Project completion : ![](https://geps.dev/progress/10)
 <!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
