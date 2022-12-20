@@ -35,7 +35,7 @@ Project completion : ![](https://geps.dev/progress/10)
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/Logo_USBC4Oldies.png" alt="Logo" width="80" height="80">
+    <img src="Logo_USBC4Oldies.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">USB-C for Oldies</h3>
