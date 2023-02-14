@@ -35,7 +35,7 @@ Project completion : ![](https://geps.dev/progress/10)
 <br />
 <div align="center">
   <a href="https://github.com/crackmanix/USB-C_For_Oldies">
-    <img src="img/Logo_USBC4Oldies_2.png" alt="Logo" height="350">
+    <img src="img/Logo_USBC4Oldies_2.png" alt="Logo">
   </a>
 
 <h3 align="center">USB-C for Oldies</h3>
